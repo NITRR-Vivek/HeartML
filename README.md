@@ -8,6 +8,6 @@ The file `training_data.csv` contains the overall information for all the record
 - MV corresponds to the mitral valve point; 
 - Phc for any other auscultation Location.
 
-| ![Image 1](image1.jpeg) | ![Image 2](image2.jpeg) | ![Image 3](image3.jpeg) |
+| ![Image 1](Images/image1.jpeg) | ![Image 2](Images/image2.jpeg) | ![Image 3](Images/image3.jpeg) |
 |------------------------|------------------------|------------------------|
 | Image 1    | Image 2     | Image 3     |
